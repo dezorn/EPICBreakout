@@ -7,5 +7,5 @@ if (x - xmod <= 0)
 }
 else
 {
-	x -= 10;
+	x -= movspd;
 }

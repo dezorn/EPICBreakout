@@ -18,4 +18,8 @@
 //{
 //	game_restart();
 //}
+if (y >= room_height)
+{
+	game_restart();
+}
 move_bounce_solid(true);

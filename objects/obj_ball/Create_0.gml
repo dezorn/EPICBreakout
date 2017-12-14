@@ -9,5 +9,5 @@ diff = 0;
 
 image_xscale = 0.5;
 image_yscale = image_xscale;
-speed = 7;
+speed = 6;
 direction = obj_controller.lastballdir //round(random_range(-45,-135));

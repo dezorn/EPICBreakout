@@ -7,5 +7,5 @@ if (x + xmod >= room_width)
 }
 else
 {
-	x += 10;
+	x += movspd;
 }
