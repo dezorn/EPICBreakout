@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "5d017a71-9056-44d2-a4b0-bc187c236d55",
+            "Value": {
+                "id": "975cc48f-562c-439d-b6a4-203e1eb6caf7",
+                "resourcePath": "objects\\obj_menu_lives\\obj_menu_lives.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6518f5af-f79d-41ff-8b3f-693b95252eda",
             "Value": {
                 "id": "414a7c3d-676f-43e1-bfb9-f8c767c3f5da",

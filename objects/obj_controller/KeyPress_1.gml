@@ -8,5 +8,7 @@ switch(keyboard_key)
 	case ord("4"):menu_button("cdoll",obj_ball.direction); break;
 	case ord("5"):menu_button("ep",obj_ball.direction); break;
 	case ord("6"):menu_button("jyinx",obj_ball.direction); break;
+	//debug codes
+	case ord("9"):global.livespl += 1; break;
 	case ord("0"):room_restart(); break;
 }
