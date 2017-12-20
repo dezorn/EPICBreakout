@@ -19,4 +19,4 @@ else if (other.x == x)
 }
 
 with (other) instance_destroy(self);
-obj_controller.gamescore += 100;
+global.gamescore += 100;

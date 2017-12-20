@@ -1,19 +1,10 @@
 {
-    "id": "222028ee-f1a3-4edd-8bb2-df234f36978a",
+    "id": "9a9c5fa0-581d-45a3-bca1-c42208a956a9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_brick",
+    "name": "obj_bspawner",
     "eventList": [
-        {
-            "id": "10f7bba7-b4d9-4bc4-b85b-83768348433e",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "222028ee-f1a3-4edd-8bb2-df234f36978a"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "5984f66b-1c91-4f8f-abb8-cc4d4f5cdb3c",
+    "spriteId": "c0229297-f2d1-45ef-a266-e080a1edc688",
     "visible": true
 }

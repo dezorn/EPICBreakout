@@ -3,7 +3,7 @@
 //var ballx = obj_ball.x
 //var bally = obj_ball.y
 
-//obj_controller.lastballdir = obj_ball.direction
+//global.lastballdir = obj_ball.direction
 //object_set_sprite(obj_ball, spr_ball_jyinx);
 //instance_destroy(obj_ball);
 //instance_create_layer(ballx, bally, "Instances", obj_ball);
@@ -11,4 +11,4 @@
 
 //var streamer = "jyinx"
 
-menu_button("jyinx");
+menu_button("jyinx",obj_ball.direction);
