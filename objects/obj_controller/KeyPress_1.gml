@@ -11,4 +11,5 @@ switch(keyboard_key)
 	//debug codes
 	case ord("9"):global.livespl += 1; break;
 	case ord("0"):room_restart(); break;
+	case ord("P"):room_pause(); break;
 }

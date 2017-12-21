@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+paused = false
+
 randomize();
 
 var numSp = instance_number(obj_bspawner); //number of spawners that exist
